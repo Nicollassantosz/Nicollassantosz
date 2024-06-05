@@ -6,7 +6,7 @@ Sou o Nicollas, estudante de Análise e desenvolvimento de Sistemas, estudo prog
 
 ## Projetos em Destaque
 
-- [[Projeto sobre copa do mundo](https://github.com/Nicollassantosz/Projeto-individual.git)
+- [Projeto sobre copa do mundo](https://github.com/Nicollassantosz/Projeto-individual.git)
 
 ## Habilidades
 
