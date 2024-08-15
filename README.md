@@ -8,6 +8,10 @@ Sou o Nicollas, estudante de Análise e desenvolvimento de Sistemas, estudo prog
 
 - [Projeto sobre copa do mundo](https://github.com/Nicollassantosz/Projeto-individual.git)
 
+##Projetos secundários
+
+- [Jogo Deadpool](https://github.com/Nicollassantosz/projeto-jogo.git)
+
 ## Habilidades
 
 - Linguagens de Programação: [JavaScript]
