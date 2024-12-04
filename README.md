@@ -14,8 +14,8 @@ Sou o Nicollas, estudante de Análise e desenvolvimento de Sistemas, estudo prog
 
 ## Habilidades
 
-- Linguagens de Programação: [JavaScript,MYSQL, JAVA, SCALA, PYTHON]
-- Ferramentas: [VSCODE, MYSQL SERVER, MYSQL Workbenchm, entre outros]
+- Linguagens de Programação: [JavaScript,MYSQL, Java, Scala, Python]
+- Ferramentas: [Rancher Desktop,Docker,VSCODE,IntelliJ, MYSQL SERVER, MYSQL Workbenchm, entre outros]
 
 
 ## Contribuições
