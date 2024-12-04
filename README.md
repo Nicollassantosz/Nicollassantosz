@@ -22,7 +22,7 @@ Sou o Nicollas, estudante de Análise e desenvolvimento de Sistemas, estudo prog
 
 - (https://github.com/BerryBite)  -- Projeto sobre monitoramento de morangos para fins institucionais
 - (https://github.com/WineCare-Company) -- Projeto sobre monitoramento de vinhos para fins institucionais
-  - (https://github.com/VortexxTech) -- Projeto sobre análise de regiões para construtoras a fins institucionais
+- (https://github.com/VortexxTech) -- Projeto sobre análise de regiões para construtoras a fins institucionais
 
 ## Contato
 
