@@ -1,32 +1,36 @@
-# Olá, sou @Nicollassantosz! 👋
+# Olá, eu sou o Nicollas Carvalho 👋
 
-## Sobre Mim
+Estudante de Análise e Desenvolvimento de Sistemas e atuando na área de dados, com foco em construção e otimização de pipelines ETL em ambiente de Big Data. No dia a dia, trabalho com SQL, Apache Hive, Linux e versionamento de código, buscando garantir qualidade, confiabilidade e organização dos dados.
 
-Sou o Nicollas, estudante de Análise e desenvolvimento de Sistemas, estudo programação e amo aprender e me desafiar para fazer coisas novas.
+Tenho interesse em engenharia de dados, análise de dados e desenvolvimento de soluções que transformem dados em valor para o negócio. Estou sempre estudando e evoluindo em tecnologias como Python, Spark e Cloud, com vontade de aplicar esse conhecimento na prática e crescer cada vez mais na área.
 
-## Projetos em Destaque
+## Projetos em destaque
 
-- [Projeto sobre copa do mundo](https://github.com/Nicollassantosz/Projeto-individual.git)
+- [Gerador de Relatório de Distritos de SP para Petshops - Python (2026)](https://github.com/Nicollassantosz/demographic-report-generator)
+- [Projeto sobre Copa do Mundo (2024)](https://github.com/Nicollassantosz/Projeto-individual)
 
-##Projetos secundários
+## Outros projetos
 
-- [Jogo Deadpool](https://github.com/Nicollassantosz/projeto-jogo.git)
+- [Jogo Deadpool](https://github.com/Nicollassantosz/projeto-jogo)
 
-## Habilidades
+## Competências
 
-- Linguagens de Programação: [JavaScript,MYSQL, Java, Scala, Python]
-- Ferramentas: [Rancher Desktop,Docker,VSCODE,IntelliJ, MYSQL SERVER, MYSQL Workbenchm, entre outros]
+**Linguagens e bancos de dados:**  
+JavaScript, Java, Scala, Python, SQL, MySQL
 
+**Dados e Big Data:**  
+Apache Hive, ETL, Big Data, Apache Spark, análise e transformação de dados
 
-## Contribuições
+**Ferramentas e ambientes:**  
+Linux, Git, Azure Repos, Docker, Rancher Desktop, VS Code, IntelliJ, MySQL Server, MySQL Workbench
 
-- (https://github.com/BerryBite)  -- Projeto sobre monitoramento de morangos para fins institucionais
-- (https://github.com/WineCare-Company) -- Projeto sobre monitoramento de vinhos para fins institucionais
-- (https://github.com/VortexxTech) -- Projeto sobre análise de regiões para construtoras a fins institucionais
+## Contribuições em projetos
+
+- [BerryBite](https://github.com/BerryBite) — Projeto institucional sobre monitoramento de morangos
+- [WineCare-Company](https://github.com/WineCare-Company) — Projeto institucional sobre monitoramento de vinhos
+- [VortexxTech](https://github.com/VortexxTech) — Projeto institucional sobre análise de regiões para construtoras
 
 ## Contato
 
-- LinkedIn: [https://www.linkedin.com/in/nicollas-carvalho-dev]
-
-- Email: nicollas.santos@sptech.school
-
+- LinkedIn: [Nicollas Carvalho](https://www.linkedin.com/in/nicollas-carvalho-dev)
+- E-mail: nicollas.santos@sptech.school
